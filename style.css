@@ -264,5 +264,8 @@
                 width: 100%;
                 margin-bottom: 10px;
               }
+              .padtop{
+                padding-top: 5rem;
+              }
             
           }
